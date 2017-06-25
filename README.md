@@ -6,6 +6,11 @@
 * Push to your forked repo and email me (blubecker@lifesize.com) that you have completed the tests.
 * Take a well deserved break!
 
+### Framework Information
+
+For these tests, feel free to use whatever language you are most familiar with. That said, we use Javascript and webdriver.io
+for our current projects, so it would be great to see your capabilities with working in that language.
+
 Email me at blubecker@lifesize.com if you have any questions.
 
 ## Tests
