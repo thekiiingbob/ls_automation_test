@@ -52,3 +52,5 @@ Then I should be able to parse the NEW chats data and return an array of JSON ob
   // more json objects...
 ]
 ```
+
+![](http://i.imgur.com/9sHGyHf.gif)
